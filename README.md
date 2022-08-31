@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rps2002
-- 👀 I’m interested in building quality applications using current tech
-- 🌱 I’m currently learning React and Node
+### 👋 Hi, I’m @rps2002
+👀 I’m interested in building quality applications using current tech
+
+🌱 I’m currently learning React and Node
  <!--
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
